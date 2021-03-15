@@ -10,7 +10,6 @@
 - Java 工具包（Mybatis分页插件+不依赖SDK第三方支付Java实现）： https://github.com/jast90/awesome-tools-java
 - React 实现的管理系统：https://github.com/jast90/react-tutorial/tree/master/react-admin
 - Python 实现的爬虫（中国行政区划等）：https://github.com/jast90/spiders
-- Spring Cloud微服务实现：https://github.com/jast90/infrastructure-h
 - Java工具（二维码，高德地图获取地址经纬度）：https://github.com/jast90/common-utils
 - Java学习教程(Java语言语法，JVM GC Root对象测试验证，常用数据结构Java实现，内排序算法，Spring框架原理及源码，剑指offer部分题目题解，Java实现的一致性Hash)：https://github.com/jast90/java-tutorial
 
