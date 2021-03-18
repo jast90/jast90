@@ -7,7 +7,7 @@
 
 ### 我的项目
 - 大数据学习小结：https://github.com/jast90/awesome-learning
-- Java 工具包（Mybatis分页插件+不依赖SDK第三方支付Java实现）： https://github.com/jast90/awesome-tools-java
+- Java 工具包（高德地图API Java实现，其他的拥抱开源吧）： https://github.com/jast90/awesome-tools-java
 - React 实现的管理系统：https://github.com/jast90/react-tutorial/tree/master/react-admin
 - Python 实现的爬虫（中国行政区划等）：https://github.com/jast90/spiders
 - Java工具（二维码，高德地图获取地址经纬度）：https://github.com/jast90/common-utils
