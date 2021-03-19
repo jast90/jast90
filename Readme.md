@@ -2,12 +2,6 @@
 ![](https://komarev.com/ghpvc/?username=jast90&color=red)
 -->
 
-### 我的
-[processon](https://www.processon.com/u/5cdd3988e4b05071d4826642/profile)
-
-### 我的项目
-- Java学习教程(Java语言语法，JVM GC Root对象测试验证，常用数据结构Java实现，内排序算法，Spring框架原理及源码，剑指offer部分题目题解，Java实现的一致性Hash)：https://github.com/jast90/java-tutorial
-
 ### 学习思维导图
 - [我的技能](https://www.processon.com/view/5fc8c5a25653bb7d2b286cb2#map)：总结自己的技能点，并通过自己的语言组织总结
 - [UML 图](https://www.processon.com/view/5d9ec71de4b09df55007e83f)：线程状态的状态图，JMM，Spring启动时序图，ReentrantLock调用AQS时序图
