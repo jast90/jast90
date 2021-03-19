@@ -17,6 +17,7 @@
 - [编程语言](https://www.processon.com/view/5e9185861e085369d0b9a2d9#map)（包括：Java，Shell，React，Python等）
 - [我的技能](https://www.processon.com/view/5fc8c5a25653bb7d2b286cb2#map)（总结自己的技能点，并通过自己的语言组织总结）
 - [UML 图](https://www.processon.com/view/5d9ec71de4b09df55007e83f) （线程状态的状态图，JMM，Spring启动时序图，ReentrantLock调用AQS时序图 等等）
+- [ERP系统设计与实现](https://www.processon.com/view/60223c077d9c0816c3e72fae#map)
 
 
 
