@@ -6,7 +6,6 @@
 [processon](https://www.processon.com/u/5cdd3988e4b05071d4826642/profile)
 
 ### 我的项目
-- Java 工具包（高德地图API Java实现，其他的拥抱开源吧）： https://github.com/jast90/awesome-tools-java
 - Java学习教程(Java语言语法，JVM GC Root对象测试验证，常用数据结构Java实现，内排序算法，Spring框架原理及源码，剑指offer部分题目题解，Java实现的一致性Hash)：https://github.com/jast90/java-tutorial
 
 ### 学习思维导图
