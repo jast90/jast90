@@ -3,7 +3,7 @@
 -->
 
 ### 学习思维导图
-- [我的技能](https://www.processon.com/view/5fc8c5a25653bb7d2b286cb2#map)：总结自己的技能点，并通过自己的语言组织总结
+- [技能总结](https://www.processon.com/view/5fc8c5a25653bb7d2b286cb2#map)：总结自己的技能点，并通过自己的语言组织总结
 - [UML 图](https://www.processon.com/view/5d9ec71de4b09df55007e83f)：线程状态的状态图，JMM，Spring启动时序图，ReentrantLock调用AQS时序图
 - [ERP系统设计与实现](https://www.processon.com/view/60223c077d9c0816c3e72fae#map)：ERP系统学习
 
