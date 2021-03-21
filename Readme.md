@@ -1,6 +1,8 @@
 <!--
 ![](https://komarev.com/ghpvc/?username=jast90&color=red)
 -->
+### 迷茫就多读书
+[在读免费电子书籍](https://github.com/jast90/awesome-learning/issues/60)
 
 ### 学习思维导图
 - [技能总结](https://www.processon.com/view/5fc8c5a25653bb7d2b286cb2#map)：梳理知识点
