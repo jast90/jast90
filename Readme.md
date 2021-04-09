@@ -1,7 +1,7 @@
 <!--
 ![](https://komarev.com/ghpvc/?username=jast90&color=red)
 -->
-### 迷茫就多读书
+### 书
 - [在读书籍](https://github.com/jast90/awesome-learning/issues/60)
 
 ### 学习思维导图
