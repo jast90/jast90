@@ -1,6 +1,5 @@
-<!--
 ![](https://komarev.com/ghpvc/?username=jast90&color=red)
--->
+
 ### 书籍
 - [在读书籍](https://github.com/jast90/awesome-learning/issues/60)
 
