@@ -9,7 +9,7 @@
 - [UML 图](https://www.processon.com/view/5d9ec71de4b09df55007e83f)：线程状态的状态图，JMM，Spring启动时序图，ReentrantLock调用AQS时序图
 - [ERP系统设计与实现](https://www.processon.com/view/60223c077d9c0816c3e72fae#map)：ERP系统学习
 - [中间件](https://www.processon.com/view/5cf7290de4b06e3f4facc563#map)：大数据组件：hadoop,hive,hbase,spark,kafka
-- [压力测试](https://www.processon.com/view/60860d0ee0b34d6e1cf7e515#map)
+- [压力测试](https://www.processon.com/view/60860d0ee0b34d6e1cf7e515#map)：接口、Web网站、数据库等等压力测试
 
 ### 专注blog
  [CSDN](https://blog.csdn.net/jastzhang)
